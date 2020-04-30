@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{4187791D-BB2B-4655-983E-360E0A4BCCF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB.Date", "DB.Date\DB.Date.csproj", "{3B0136A0-3EE1-4BB0-8AA4-2489CC561C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApiTest", "ConsoleApiTest\ConsoleApiTest.csproj", "{61659424-512F-46A1-8CFC-87D377834E09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4187791D-BB2B-4655-983E-360E0A4BCCF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4187791D-BB2B-4655-983E-360E0A4BCCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4187791D-BB2B-4655-983E-360E0A4BCCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4187791D-BB2B-4655-983E-360E0A4BCCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0136A0-3EE1-4BB0-8AA4-2489CC561C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0136A0-3EE1-4BB0-8AA4-2489CC561C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0136A0-3EE1-4BB0-8AA4-2489CC561C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0136A0-3EE1-4BB0-8AA4-2489CC561C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61659424-512F-46A1-8CFC-87D377834E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61659424-512F-46A1-8CFC-87D377834E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61659424-512F-46A1-8CFC-87D377834E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61659424-512F-46A1-8CFC-87D377834E09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4F698E9-410C-4564-87E0-FCE165D3447F}
+	EndGlobalSection
+EndGlobal
